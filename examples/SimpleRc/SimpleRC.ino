@@ -1,5 +1,5 @@
 #include "Arduino.h"
-#include "PinDefs.h"
+#include <TeensyRacecar.h>
 
 #include <PulsePosition.h>
 
