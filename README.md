@@ -5,6 +5,6 @@ This library contains the firmware for a competition robot based on an RC car.  
 
 This repsoitory is orgainized as a library, so that various subsystems can be tested individually, or that muliple sketches can be accessed, so I can switch between functionalities.
 
-#Dependencies
+## Dependencies
 * [PulsePosition](https://github.com/PaulStoffregen/PulsePosition) for reading from my CPPM RC Reciever.
  
